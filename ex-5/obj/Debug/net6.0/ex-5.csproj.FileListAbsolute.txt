@@ -1,0 +1,15 @@
+/home/jhonny/Documentos/Fatec/Microinformática/Aula-12/ex-5/bin/Debug/net6.0/ex-5
+/home/jhonny/Documentos/Fatec/Microinformática/Aula-12/ex-5/bin/Debug/net6.0/ex-5.deps.json
+/home/jhonny/Documentos/Fatec/Microinformática/Aula-12/ex-5/bin/Debug/net6.0/ex-5.runtimeconfig.json
+/home/jhonny/Documentos/Fatec/Microinformática/Aula-12/ex-5/bin/Debug/net6.0/ex-5.dll
+/home/jhonny/Documentos/Fatec/Microinformática/Aula-12/ex-5/bin/Debug/net6.0/ref/ex-5.dll
+/home/jhonny/Documentos/Fatec/Microinformática/Aula-12/ex-5/bin/Debug/net6.0/ex-5.pdb
+/home/jhonny/Documentos/Fatec/Microinformática/Aula-12/ex-5/obj/Debug/net6.0/ex-5.csproj.AssemblyReference.cache
+/home/jhonny/Documentos/Fatec/Microinformática/Aula-12/ex-5/obj/Debug/net6.0/ex-5.GeneratedMSBuildEditorConfig.editorconfig
+/home/jhonny/Documentos/Fatec/Microinformática/Aula-12/ex-5/obj/Debug/net6.0/ex-5.AssemblyInfoInputs.cache
+/home/jhonny/Documentos/Fatec/Microinformática/Aula-12/ex-5/obj/Debug/net6.0/ex-5.AssemblyInfo.cs
+/home/jhonny/Documentos/Fatec/Microinformática/Aula-12/ex-5/obj/Debug/net6.0/ex-5.csproj.CoreCompileInputs.cache
+/home/jhonny/Documentos/Fatec/Microinformática/Aula-12/ex-5/obj/Debug/net6.0/ex-5.dll
+/home/jhonny/Documentos/Fatec/Microinformática/Aula-12/ex-5/obj/Debug/net6.0/ref/ex-5.dll
+/home/jhonny/Documentos/Fatec/Microinformática/Aula-12/ex-5/obj/Debug/net6.0/ex-5.pdb
+/home/jhonny/Documentos/Fatec/Microinformática/Aula-12/ex-5/obj/Debug/net6.0/ex-5.genruntimeconfig.cache
